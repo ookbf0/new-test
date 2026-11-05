@@ -1,5 +1,4 @@
 // src/provider/platform.js
-// 换平台只改本文件：baseURL、key 的 secret 名、鉴权头、额外请求参数
 export const PLATFORM = {
   name: "tokenrhythm",
   baseURL: "https://tokenrhythm.studio/v1/chat/completions",
